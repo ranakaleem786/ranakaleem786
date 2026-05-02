@@ -10,7 +10,7 @@
   <a href="https://egrif.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=vercel">
   </a>
-  <a href="https://pockemoney-final.vercel.app" target="_blank">
+  <a href="https://pocketmoney-final.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Project-Live-purple?style=for-the-badge&logo=vercel">
   </a>
 </p>
