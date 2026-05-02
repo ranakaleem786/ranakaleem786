@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Kaleem
 
-<!--
-**ranakaleem786/ranakaleem786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (MERN + Next.js)
+💡 I build scalable, fast & modern web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔭 Currently working on full-stack apps
+* 🌱 Improving backend architecture & system design
+* ⚡ Love building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+* React.js
+* Next.js
+* Tailwind CSS
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+
+### 🗄️ Database
+
+* MongoDB
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-commerce App
+
+Full-stack e-commerce with authentication, cart & payments
+
+### 💬 Real-time Chat App
+
+Socket.io based chat system with live messaging
+
+### 🔐 Auth System
+
+Complete login/register/forgot password system
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🌐 Connect with Me
+
+* 📧  **[rana.kaleem786422@gmail.com](mailto:rana.kaleem786422@gmail.com)**  
+* 🌍 Portfolio (egrif.online, pockemoney-final.vercel.app)
+
+---
+
+⭐ *Always building. Always learning.*
