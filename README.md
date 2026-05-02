@@ -1,5 +1,9 @@
 # 💜 Hi 👋, I'm Kaleem
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Next.js+Lover;Building+Scalable+Web+Apps;Open+for+Freelance+Work" />
+</p>
+
 <h3 align="center">🚀 Full Stack Developer (MERN + Next.js)</h3>
 <p align="center">💡 Building scalable, fast & modern web applications</p>
 
@@ -12,6 +16,9 @@
   </a>
   <a href="https://pocketmoney-final.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Project-Live-purple?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://wa.me/923144275078" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-purple?style=for-the-badge&logo=whatsapp">
   </a>
 </p>
 
@@ -30,9 +37,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind&theme=dark" />
-
 </p>
 
 ---
@@ -65,6 +70,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -74,6 +87,8 @@
 🌍 <a href="https://egrif.online" target="_blank">egrif.online</a>
 
 🚀 <a href="https://pockemoney-final.vercel.app" target="_blank">Live Project</a>
+
+💬 <a href="https://wa.me/923144275078" target="_blank">Chat on WhatsApp</a>
 
 </p>
 
